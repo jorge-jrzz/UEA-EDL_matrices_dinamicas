@@ -39,7 +39,12 @@ El programa se realizo mediante la funcion ***menu()***, en la cual se mandas a 
 [![code.png](https://i.postimg.cc/hv5f6YMK/code.png)](https://postimg.cc/GTvLsqZf)
 
 ## Help 
-Una forma de compilar este programa es correr el siguiente comando en la terminal (Se tiene que estar en el directorio donde se encuentran los archivos)
+Una forma de compilar este programa es correr el siguiente comando en la terminal (Se tiene que estar en el directorio donde se encuentran los archivos):
+
+```
+gcc *.c -o nombre -I .h
+```
+
 
 ## Project status
 
